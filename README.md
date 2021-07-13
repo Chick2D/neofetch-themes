@@ -1,6 +1,12 @@
-Neofetch Themes
+### Neofetch Themes
 ---
+<img src="https://cdn.discordapp.com/attachments/635625925748457482/864406818545860659/unknown.png" alt="img" align="right" width="500px">  
 
-This is a project I made for storing pretty-looking neofetch configs so you dont have to set up neofetch, or this could be something you can be inspired from and build up from any configs here to your liking.
+A project which aims at making your life more convinient by putting a bunch of neofetch configs in a single place.
 
-Please send your own configs to me and star this repo to support this project <3
+- **[Themes - Community](https://github.com/Chick2D/neofetch-themes/tree/main/community)**
+- **[Themes - Chick](https://github.com/Chick2D/neofetch-themes/tree/main/chick)**
+
+
+### [FAQs](https://github.com/Chick2D/neofetch-themes/wiki/FAQs)
+### Installation (In progress)
