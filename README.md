@@ -15,6 +15,10 @@ A project which aims at making your life more convinient by putting a bunch of n
 ---
 ![](https://cdn.discordapp.com/attachments/844105799609483264/870381043205685298/unknown.png)
 
+[idlifetch](https://github.com/Chick2D/neofetch-themes/blob/main/normal/idlifetch.conf)
+---
+![](https://cdn.discordapp.com/attachments/515618909705994250/919827354568777778/unknown.png)
+
 # Small
 
 [Smallfetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/config.conf)
@@ -24,6 +28,10 @@ A project which aims at making your life more convinient by putting a bunch of n
 [Blockfetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/blockfetch.conf)
 ---
 ![](https://cdn.discordapp.com/attachments/844105799609483264/889308714203492422/unknown.png)
+
+[AxylFetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/axylfetch.conf)
+---
+![](https://cdn.discordapp.com/attachments/515618909705994250/919827043938598912/unknown.png)
 
 ### [FAQs](https://github.com/Chick2D/neofetch-themes/wiki/FAQs)
 ### Installation (In progress)
