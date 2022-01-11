@@ -22,6 +22,10 @@ also checkout [pagankeymaster/neofetch-configs](https://github.com/pagankeymaste
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479141004910622/unknown.png)
 
+![Talljoe's Fetch](https://github.com/Chick2D/neofetch-themes/blob/main/normal/talljoe.conf)
+---
+![](https://media.discordapp.net/attachments/883138437413220412/930506977115791380/unknown.png?width=783&height=359)
+
 # Small
 Note: you are required to manually change the distro ascii in the config
 
