@@ -20,6 +20,7 @@ A project which aims at making your life more convinient by putting a bunch of n
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479141004910622/unknown.png)
 
 # Small
+Note: you are required to manually change the distro ascii in the config
 
 [Smallfetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/config.conf)
 ---
