@@ -3,6 +3,9 @@
 <img src="https://cdn.discordapp.com/attachments/635625925748457482/864406818545860659/unknown.png" alt="img" align="right" width="300px">  
 
 A project which aims at making your life more convinient by putting a bunch of neofetch configs in a single place.
+\
+also checkout [pagankeymaster/neofetch-configs](https://github.com/pagankeymaster/neofetch-configs), he deserves some attention
+
 
 # Normal
 
