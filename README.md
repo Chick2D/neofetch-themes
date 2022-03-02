@@ -26,6 +26,10 @@ also checkout [pagankeymaster/neofetch-configs](https://github.com/pagankeymaste
 ---
 ![](https://media.discordapp.net/attachments/883138437413220412/930506977115791380/unknown.png?width=783&height=359)
 
+# Hybrid
+![Mixedfetch](https://github.com/legendlife/neofetch-themes/blob/main/hybrid/config.conf)
+![](https://cdn.discordapp.com/attachments/780366738536792064/948514982851665920/Screenshot_2022-03-02_15-37-18.png)
+
 # Small
 Note: you are required to manually change the distro ascii in the config
 
