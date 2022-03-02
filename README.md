@@ -28,6 +28,7 @@ also checkout [pagankeymaster/neofetch-configs](https://github.com/pagankeymaste
 
 # Hybrid
 ![Mixedfetch](https://github.com/legendlife/neofetch-themes/blob/main/hybrid/config.conf)
+---
 ![](https://cdn.discordapp.com/attachments/780366738536792064/948514982851665920/Screenshot_2022-03-02_15-37-18.png)
 
 # Small
