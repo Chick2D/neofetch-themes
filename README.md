@@ -4,10 +4,10 @@
 
 A project which aims at making your life more convinient by putting a bunch of neofetch configs in a single place.
 \
-also checkout [pagankeymaster/neofetch-configs](https://github.com/pagankeymaster/neofetch-configs), he deserves some attention
+also checkout [pagankeymaster/neofetch-configs](https://github.com/pagankeymaster/neofetch-configs), he deserves some attention!
 
 
-# Normal
+# Normal:
 
 
 [insert name](https://github.com/legendlife/neofetch-themes/blob/main/normal/config.conf)
@@ -26,12 +26,12 @@ also checkout [pagankeymaster/neofetch-configs](https://github.com/pagankeymaste
 ---
 ![](https://media.discordapp.net/attachments/883138437413220412/930506977115791380/unknown.png?width=783&height=359)
 
-# Hybrid
+# Hybrid:
 ![Mixedfetch](https://github.com/legendlife/neofetch-themes/blob/main/hybrid/config.conf)
 ---
 ![](https://cdn.discordapp.com/attachments/780366738536792064/948514982851665920/Screenshot_2022-03-02_15-37-18.png)
 
-# Small
+# Small:
 Note: you are required to manually change the distro ascii in the config
 
 [Smallfetch](https://github.com/legendlife/neofetch-themes/blob/main/small/config.conf)
