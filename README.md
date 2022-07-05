@@ -24,6 +24,10 @@ A project which aims at making your life more convinient by putting a bunch of n
 ---
 ![](https://media.discordapp.net/attachments/883138437413220412/930506977115791380/unknown.png?width=783&height=359)
 
+![papirus](https://github.com/Chick2D/neofetch-themes/blob/main/normal/papirus.conf)
+---
+![](https://cdn.discordapp.com/attachments/993915832897908797/993918477649846372/unknown.png)
+
 # Hybrid:
 ![Mixedfetch](https://github.com/legendlife/neofetch-themes/blob/main/hybrid/config.conf)
 ---
