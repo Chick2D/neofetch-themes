@@ -14,7 +14,7 @@ A project which aims at making your life more convinient by putting a bunch of n
 
 [insert name 2 electric boogaloo](https://github.com/chick2d/neofetch-themes/blob/main/normal/config2.conf)
 ---
-NOTE: Run `yay -S material-design-fonts-extended` or the pacmans won't work, I don't know how to fix it for non arch-based distros
+NOTE: Run `yay -S ttf-material-design-fonts-extended` or the pacmans won't work, I don't know how to fix it for non arch-based distros
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479100232097842/unknown.png)
 
 [idlifetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/idlifetch.conf)
