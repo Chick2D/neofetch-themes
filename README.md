@@ -45,6 +45,10 @@ Note: you are required to manually change the distro ascii in the config
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479450821365770/unknown.png)
 
+[Dotfetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/dotfetch.conf)
+---
+![]https://cdn.discordapp.com/attachments/515557109404794905/995619800032215050/RDT_20220710_1445015126100784893260744.gif)
+
 [AxylFetch](https://github.com/chick2d/neofetch-themes/blob/main/small/axylfetch.conf)
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479412208615534/unknown.png)
