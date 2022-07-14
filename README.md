@@ -25,6 +25,10 @@ NOTE: Run `yay -S ttf-material-design-icons-extended` or the pacmans won't work,
 ---
 ![](https://media.discordapp.net/attachments/883138437413220412/930506977115791380/unknown.png?width=783&height=359)
 
+[Onre's Fetch](https://github.com/Chick2D/neofetch-themes/blob/main/normal/onrefetch.conf)
+---
+![](https://raw.githubusercontent.com/arionrefat/dotfiles/master/screenshots/.screenshots/ss5.png)
+
 [papirus](https://github.com/chick2d/neofetch-themes/blob/main/normal/papirus.conf)
 ---
 ![](https://cdn.discordapp.com/attachments/993915832897908797/993918477649846372/unknown.png)
