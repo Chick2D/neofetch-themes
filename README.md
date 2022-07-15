@@ -36,7 +36,7 @@ NOTE: Run `yay -S ttf-material-design-icons-extended` or the pacmans won't work,
 # Hybrid:
 [Mixedfetch](https://github.com/legendlife/neofetch-themes/blob/main/hybrid/config.conf)
 ---
-![](https://cdn.discordapp.com/attachments/780366738536792064/948514982851665920/Screenshot_2022-03-02_15-37-18.png)
+![](https://cdn.discordapp.com/attachments/780366738536792064/997469230708568144/Screenshot_2022-07-15_17-43-56.png)
 
 # Small:
 Note: you are required to manually change the distro ascii in the config
@@ -58,4 +58,17 @@ Note: you are required to manually change the distro ascii in the config
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479412208615534/unknown.png)
 
 ### [FAQs](https://github.com/Chick2D/neofetch-themes/wiki/FAQs)
-### Installation (In progress)
+
+### Installation 
+---
+#### Follow these steps in order to install the theme!
+
+- Go to the `.config` directory {press `ctrl + h` in order to locate it, as it's a hidden directory}
+
+- Locate the `neofetch` directory and double click on that
+
+- You will find a file named `config.conf`
+
+- Open `config.conf` with your favourite text editor and replace the files with your favourites from this repo and save the file.
+
+> Eg: You want to use `Mixedfetch`, click on Mixedfeth on the readme or locate it from the repo. and there will be a `config.conf` file, copy evertything from that file and paste it on your own `config.conf` file, save the file and you're done!
