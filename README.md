@@ -61,7 +61,7 @@ Note: you are required to manually change the distro ascii in the config
 
 ### Installation 
 ---
-#### Follow these steps to install the theme!
+#### Follow these steps in order to install the theme!
 
 - Go to the `.config` directory {press `ctrl + h` in order to locate it, as it's a hidden directory}
 
