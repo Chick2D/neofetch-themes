@@ -63,7 +63,7 @@ Note: you are required to manually change the distro ascii in the config
 ---
 #### Follow these steps to install the theme!
 
-- Go to the `.config` directory {press `ctrl + h` in order to locate it as it's a hidden directory}
+- Go to the `.config` directory {press `ctrl + h` in order to locate it, as it's a hidden directory}
 
 - Locate the `neofetch` directory and double click on that
 
