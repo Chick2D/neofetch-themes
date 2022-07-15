@@ -63,12 +63,12 @@ Note: you are required to manually change the distro ascii in the config
 ---
 #### Follow these steps in order to install the theme!
 
-- Go to the `.config` directory {press `ctrl + h` in order to locate it, as it's a hidden directory}
+- Go to the `.config` directory using your file manager (press `ctrl + h` in order to locate it, as it's a hidden directory)
 
 - Locate the `neofetch` directory and double click on that
 
 - You will find a file named `config.conf`
 
-- Open `config.conf` with your favourite text editor and replace the files with your favourites from this repo and save the file.
+- Open `config.conf` with your preferred text editor and replace the files with your favourites from this repo and save the file.
 
 > Eg: You want to use `Mixedfetch`, click on Mixedfeth on the readme or locate it from the repo. and there will be a `config.conf` file, copy evertything from that file and paste it on your own `config.conf` file, save the file and you're done!
