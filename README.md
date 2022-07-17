@@ -71,4 +71,4 @@ Note: you are required to manually change the distro ascii in the config
 
 - Open `config.conf` with your preferred text editor and replace the files with your favourites from this repo and save the file.
 
-> Eg: You want to use `Mixedfetch`, click on Mixedfeth on the readme or locate it from the repo. and there will be a `config.conf` file, copy evertything from that file and paste it on your own `config.conf` file, save the file and you're done!
+> Eg: You want to use `Mixedfetch`, click on Mixedfetch on the readme or locate it from the repo. and there will be a `config.conf` file, copy evertything from that file and paste it on your own `config.conf` file, save the file and you're done!
