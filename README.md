@@ -1,9 +1,10 @@
 ### Neofetch Themes
+[Discord](https://discord.gg/tuWnYReXbS) • Reddit • GitHub
 ---
 <img src="https://cdn.discordapp.com/attachments/635625925748457482/864406818545860659/unknown.png" alt="img" align="right" width="300px">  
 
-A project which aims at making your life more convinient by putting a bunch of neofetch configs in a single place.
 
+A project which aims at making your life more convinient by putting a bunch of neofetch configs in a single place.
 
 # Normal:
 
@@ -61,7 +62,9 @@ Note: you are required to manually change the distro ascii in the config
 
 ### Installation 
 ---
-#### Follow these steps in order to install the theme!
+
+<details>
+<summary> GUI </summary>
 
 - Go to the `.config` directory using your file manager (press `ctrl + h` in order to locate it, as it's a hidden directory)
 
@@ -72,3 +75,40 @@ Note: you are required to manually change the distro ascii in the config
 - Open `config.conf` with your preferred text editor and replace the files with your favourites from this repo and save the file.
 
 > Eg: You want to use `Mixedfetch`, click on Mixedfetch on the readme or locate it from the repo. and there will be a `config.conf` file, copy evertything from that file and paste it on your own `config.conf` file, save the file and you're done!
+</details>
+
+<details>
+<summary> CLI </summary>
+
+1. Backup your config by running
+```
+cd ~/.config/neofetch/ && rename config.conf configbackup.conf config.conf
+```
+
+2. Clone the repository by running
+```
+git clone https://github.com/Chick2D/neofetch-themes/
+```
+in your preferred folder (just do ~/Downloads if you want)
+
+2. Run `cd neofetch-themes` then cd into the category for example for Onre's Fetch you'd do `cd normal/`
+
+3. Run 
+```
+mv <file> -t ~/.config/neofetch/
+```
+
+4. If the file isn't already named config.conf rename it using
+```
+rename <file> config.conf <file>
+```
+</details>
+
+Support
+---
+ 
+I'd really appreciate if anyone donated any amount of money to this project, It'd really support me personally
+
+I'd prefer if I got gifted an amazon or a cubelelo giftcard, just dm me it on [discord](https://discord.gg/tuWnYReXbS)/reddit
+
+BTC: `1HffvknYXCbLsqiWHtUUCVKbkWVLKxdDim`
