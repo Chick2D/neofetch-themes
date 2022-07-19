@@ -1,5 +1,5 @@
-### Neofetch Themes
-[Discord](https://discord.gg/tuWnYReXbS) • Reddit • GitHub
+# Neofetch Themes
+#### [Discord](https://discord.gg/tuWnYReXbS) • Reddit • GitHub
 ---
 <img src="https://cdn.discordapp.com/attachments/635625925748457482/864406818545860659/unknown.png" alt="img" align="right" width="300px">  
 
