@@ -34,6 +34,10 @@ NOTE: Run `yay -S ttf-material-design-icons-extended` or the pacmans won't work,
 ---
 ![](https://cdn.discordapp.com/attachments/993915832897908797/993918477649846372/unknown.png)
 
+[Boxes](https://github.com/chick2d/neofetch-themes/blob/main/normal/papirus.conf)
+---
+![](https://media.discordapp.net/attachments/476369660917579776/999305515911876608/unknown.png)
+
 # Hybrid:
 [Mixedfetch](https://github.com/legendlife/neofetch-themes/blob/main/hybrid/config.conf)
 ---
