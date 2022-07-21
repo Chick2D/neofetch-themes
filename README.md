@@ -99,7 +99,7 @@ in your preferred folder (just do ~/Downloads if you want)
 ```
 mv neofetch-themes/<folder>/<file> ~/.config/neofetch/config.conf
 ```
-> For example if you want papirus it'd be `mv neofetch-themes/normal/papirus.conf ~/.config/neofetch/config.conf
+> For example if you want papirus it'd be `mv neofetch-themes/normal/papirus.conf ~/.config/neofetch/config.conf`
 </details>
 
 Support
