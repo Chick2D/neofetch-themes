@@ -95,17 +95,11 @@ git clone https://github.com/Chick2D/neofetch-themes/
 ```
 in your preferred folder (just do ~/Downloads if you want)
 
-2. Run `cd neofetch-themes` then cd into the category for example for Onre's Fetch you'd do `cd normal/`
-
 3. Run 
 ```
-mv <file> -t ~/.config/neofetch/
+mv neofetch-themes/<folder>/<file> ~/.config/neofetch/config.conf
 ```
-
-4. If the file isn't already named config.conf rename it using
-```
-rename <file> config.conf <file>
-```
+> For example if you want papirus it'd be `mv neofetch-themes/normal/papirus.conf ~/.config/neofetch/config.conf
 </details>
 
 Support
