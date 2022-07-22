@@ -15,7 +15,7 @@ A project which aims at making your life more convinient by putting a bunch of n
 
 [insert name 2 electric boogaloo](https://github.com/chick2d/neofetch-themes/blob/main/normal/config2.conf)
 ---
-NOTE: Run `yay -S ttf-material-design-icons-extended` or the pacmans won't work, I don't know how to fix it for non arch-based distros
+NOTE: Run `yay -S ttf-material-design-icons-extended`, otherwise the `pacman` packages won't work, I don't know how to fix it for non Arch-based distros.
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479100232097842/unknown.png)
 
 [idlifetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/idlifetch.conf)
@@ -70,43 +70,42 @@ Note: you are required to manually change the distro ascii in the config
 <details>
 <summary> GUI </summary>
 
-- Go to the `.config` directory using your file manager (press `ctrl + h` in order to locate it, as it's a hidden directory)
+- Go to the `.config` directory in your home folder using your file manager.\
+*Note: Press `Ctrl + H` to locate it, as it is a hidden directory.*
+- Navigate into the `neofetch` directory.
 
-- Locate the `neofetch` directory and double click on that
-
-- You will find a file named `config.conf`
-
-- Open `config.conf` with your preferred text editor and replace the files with your favourites from this repo and save the file.
-
-> Eg: You want to use `Mixedfetch`, click on Mixedfetch on the readme or locate it from the repo. and there will be a `config.conf` file, copy evertything from that file and paste it on your own `config.conf` file, save the file and you're done!
+- Open the file `config.conf` with your preferred text editor and replace the text inside it with the config from your favorite theme.
+> E. g.: You want to use `Mixedfetch`, click on Mixedfetch on the readme or locate it from the repo. There will be a `config.conf` file, copy the contents and paste it in your own `config.conf` file, save the file and you're done!
 </details>
 
 <details>
 <summary> CLI </summary>
 
-1. Backup your config by running
-```
+1. Backup your config. By running
+```bash
 cd ~/.config/neofetch/ && rename config.conf configbackup.conf config.conf
 ```
+you save your current config in the file `configbackup.conf`.
 
-2. Clone the repository by running
-```
+2. Clone this repository by running
+```bash
 git clone https://github.com/Chick2D/neofetch-themes/
 ```
-in your preferred folder (just do ~/Downloads if you want)
+in your preferred folder.
 
 3. Run 
-```
+```bash
 mv neofetch-themes/<folder>/<file> ~/.config/neofetch/config.conf
 ```
-> For example if you want papirus it'd be `mv neofetch-themes/normal/papirus.conf ~/.config/neofetch/config.conf`
+where `<folder>` is the section in this ReadMe, while `<file>` is the file name of the config of this theme.
+> For example: If you want papirus, it'd be `mv neofetch-themes/normal/papirus.conf ~/.config/neofetch/config.conf`.
 </details>
 
 Support
 ---
  
-I'd really appreciate if anyone donated any amount of money to this project, It'd really support me personally
+I'd really appreciate any kind of donation to this project.
 
-I'd prefer if I got gifted an amazon or a cubelelo giftcard, just dm me it on [discord](https://discord.gg/tuWnYReXbS)/reddit
+I'd prefer if I got gifted an Amazon or a Cubelelo giftcard, just message me on [Discord](https://discord.gg/tuWnYReXbS) or Reddit.
 
 BTC: `1HffvknYXCbLsqiWHtUUCVKbkWVLKxdDim`
