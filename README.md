@@ -6,6 +6,8 @@
 
 A project which aims at making your life more convinient by putting a bunch of neofetch configs in a single place.
 
+Video Showcase/Tutorial: https://www.youtube.com/watch?v=aQ44CafqcH0&feature=youtu.be
+
 # Normal:
 
 
