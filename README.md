@@ -32,6 +32,10 @@ NOTE: Run `yay -S ttf-material-design-icons-extended`, otherwise the `pacman` pa
 ---
 ![](https://raw.githubusercontent.com/arionrefat/dotfiles/master/screenshots/.screenshots/ss5.png)
 
+[Kremfetch](https://github.com/Chick2D/neofetch-themes/tree/main/normal/remfetch)
+---
+![](https://cdn.discordapp.com/attachments/883138437413220412/1002653085925122088/screenshot.png)
+
 [papirus](https://github.com/chick2d/neofetch-themes/blob/main/normal/papirus.conf)
 ---
 ![](https://cdn.discordapp.com/attachments/993915832897908797/993918477649846372/unknown.png)
@@ -40,7 +44,7 @@ NOTE: Run `yay -S ttf-material-design-icons-extended`, otherwise the `pacman` pa
 ---
 ![](https://media.discordapp.net/attachments/476369660917579776/999305515911876608/unknown.png)
 
-# Hybrid:
+# Hybrid
 [Mixedfetch](https://github.com/legendlife/neofetch-themes/blob/main/hybrid/config.conf)
 ---
 ![](https://cdn.discordapp.com/attachments/780366738536792064/997469230708568144/Screenshot_2022-07-15_17-43-56.png)
