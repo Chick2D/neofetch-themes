@@ -110,7 +110,7 @@ where `<folder>` is the section in this readme, while `<file>` is the file name 
 Support
 ---
  
-I'd really appreciate any kind of donation to this project.
+I'd really appreciate any kind of support for me
 
 I'd prefer if I got gifted an Amazon or a Cubelelo giftcard, just message me on [Discord](https://discord.gg/tuWnYReXbS) or Reddit.
 
