@@ -32,6 +32,11 @@ NOTE: Run `yay -S ttf-material-design-icons-extended`, otherwise the `pacman` pa
 ---
 ![](https://raw.githubusercontent.com/arionrefat/dotfiles/master/screenshots/.screenshots/ss5.png)
 
+[Bejkon](https://github.com/Chick2D/neofetch-themes/tree/main/normal/bejkon
+---
+NOTE: To use the logo you need to change the ascii source in line 743 to where your logo file is stored at.
+![](https://cdn.discordapp.com/attachments/515557109404794905/1003552241669652480/RDT_20220801_1204219081639824454444879.jpg)
+
 [Kremfetch](https://github.com/Chick2D/neofetch-themes/tree/main/normal/remfetch)
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/1002653085925122088/screenshot.png)
