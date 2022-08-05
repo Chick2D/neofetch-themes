@@ -69,6 +69,10 @@ Note: you are required to manually change the distro ascii in the config
 ---
 ![ozozFetch](https://user-images.githubusercontent.com/62524855/183045419-00daea1e-84a1-4b43-a46f-2e0de428416e.png)
 
+[ozozFetch_v2](https://github.com/mmsaeed509/neofetch-themes/blob/main/small/ozozFetch/config_v2.conf)
+---
+![ozozFetch_v2](https://user-images.githubusercontent.com/62524855/183125429-ddd8fd92-4fb3-4a40-a2ad-97a3d0e44d7a.png)
+
 [Smallfetch](https://github.com/chick2d/neofetch-themes/blob/main/small/config.conf)
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479504386850858/unknown.png)
