@@ -65,6 +65,10 @@ NOTE: Same as Bejkon 2 but line 741
 # Small:
 Note: you are required to manually change the distro ascii in the config
 
+[ozozFetch](https://github.com/mmsaeed509/neofetch-themes/blob/main/small/ozozFetch/config.conf)
+---
+![ozozFetch](https://user-images.githubusercontent.com/62524855/183045419-00daea1e-84a1-4b43-a46f-2e0de428416e.png)
+
 [Smallfetch](https://github.com/chick2d/neofetch-themes/blob/main/small/config.conf)
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479504386850858/unknown.png)
