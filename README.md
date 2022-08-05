@@ -10,10 +10,6 @@ Video Showcase/Tutorial: https://www.youtube.com/watch?v=aQ44CafqcH0&feature=you
 
 # Normal:
 
-[ozozFetch](https://github.com/mmsaeed509/neofetch-themes/blob/main/normal/ozozFetch/config.conf)
----
-![ozozFetch](https://user-images.githubusercontent.com/62524855/183044688-c979f01e-1479-4111-b169-98506738ccab.png)
-
 [insert name](https://github.com/chick2d/neofetch-themes/blob/main/normal/config.conf)
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930478963552288789/unknown.png)
@@ -26,6 +22,10 @@ NOTE: Run `yay -S ttf-material-design-icons-extended`, otherwise the `pacman` pa
 [idlifetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/idlifetch.conf)
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479141004910622/unknown.png)
+
+[ozozFetch](https://github.com/mmsaeed509/neofetch-themes/blob/main/normal/ozozFetch/config.conf)
+---
+![ozozFetch](https://user-images.githubusercontent.com/62524855/183044688-c979f01e-1479-4111-b169-98506738ccab.png)
 
 [Talljoe's Fetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/talljoe.conf)
 ---
