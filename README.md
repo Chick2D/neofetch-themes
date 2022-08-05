@@ -23,7 +23,7 @@ NOTE: Run `yay -S ttf-material-design-icons-extended`, otherwise the `pacman` pa
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479141004910622/unknown.png)
 
-[ozozFetch](https://github.com/mmsaeed509/neofetch-themes/blob/main/normal/ozozFetch/config.conf)
+[ozozFetch](https://github.com/Chick2D/neofetch-themes/blob/main/normal/ozozFetch.conf)
 ---
 ![ozozFetch](https://user-images.githubusercontent.com/62524855/183044688-c979f01e-1479-4111-b169-98506738ccab.png)
 
@@ -53,27 +53,28 @@ NOTE: Same as Bejkon 2 but line 741
 ---
 ![](https://cdn.discordapp.com/attachments/993915832897908797/993918477649846372/unknown.png)
 
+[Mixedfetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/hybridfetch.conf)
+---
+![](https://cdn.discordapp.com/attachments/780366738536792064/997469230708568144/Screenshot_2022-07-15_17-43-56.png)
+
 [Boxes](https://github.com/Chick2D/neofetch-themes/blob/main/normal/boxes.conf)
 ---
 ![](https://media.discordapp.net/attachments/476369660917579776/999305515911876608/unknown.png)
 
 # Hybrid
-[Mixedfetch](https://github.com/legendlife/neofetch-themes/blob/main/hybrid/config.conf)
----
-![](https://cdn.discordapp.com/attachments/780366738536792064/997469230708568144/Screenshot_2022-07-15_17-43-56.png)
 
 # Small:
 Note: you are required to manually change the distro ascii in the config
 
-[ozozFetch](https://github.com/mmsaeed509/neofetch-themes/blob/main/small/ozozFetch/config.conf)
+[ozozFetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/ozozfetch.conf)
 ---
 ![ozozFetch](https://user-images.githubusercontent.com/62524855/183045419-00daea1e-84a1-4b43-a46f-2e0de428416e.png)
 
-[ozozFetch_v2](https://github.com/mmsaeed509/neofetch-themes/blob/main/small/ozozFetch/config_v2.conf)
+[ozozFetch_v2](https://github.com/Chick2D/neofetch-themes/blob/main/small/ozozfetch2.conf)
 ---
 ![ozozFetch_v2](https://user-images.githubusercontent.com/62524855/183125429-ddd8fd92-4fb3-4a40-a2ad-97a3d0e44d7a.png)
 
-[Smallfetch](https://github.com/chick2d/neofetch-themes/blob/main/small/config.conf)
+[Smallfetch](https://github.com/chick2d/neofetch-themes/blob/main/small/smallfetch.conf)
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479504386850858/unknown.png)
 
