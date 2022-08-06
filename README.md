@@ -17,6 +17,7 @@ Video Showcase/Tutorial: https://www.youtube.com/watch?v=aQ44CafqcH0&feature=you
 [insert name 2 electric boogaloo](https://github.com/chick2d/neofetch-themes/blob/main/normal/config2.conf)
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479100232097842/unknown.png)
+
 NOTE: Run `yay -S ttf-material-design-icons-extended`, otherwise the `pacman` packages won't work, I don't know how to fix it for non Arch-based distros.
 
 [idlifetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/idlifetch.conf)
@@ -38,11 +39,13 @@ NOTE: Run `yay -S ttf-material-design-icons-extended`, otherwise the `pacman` pa
 [Bejkon](https://github.com/Chick2D/neofetch-themes/tree/main/normal/bejkon)
 ---
 ![](https://cdn.discordapp.com/attachments/515557109404794905/1003552241669652480/RDT_20220801_1204219081639824454444879.jpg)
+
 NOTE: To use the logo you need to change the ascii source in line 743 to where your logo file is stored at.
 
 [Bejkon 2](https://github.com/Chick2D/neofetch-themes/tree/main/normal/bejkon2)
 ---
 ![](https://cdn.discordapp.com/attachments/515557109404794905/1004117004577415189/RDT_20220727_2146317505033582455700240.jpg)
+
 NOTE: Same as Bejkon 2 but line 741
 
 [Kremfetch](https://github.com/Chick2D/neofetch-themes/tree/main/normal/remfetch)
@@ -89,6 +92,12 @@ Note: you are required to manually change the distro ascii in the config
 [AxylFetch](https://github.com/chick2d/neofetch-themes/blob/main/small/axylfetch.conf)
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479412208615534/unknown.png)
+
+[af++](https://github.com/chick2d/neofetch-themes/blob/main/small/af++)
+---
+![](https://user-images.githubusercontent.com/86041547/183236200-8c5b5fed-0a8f-416e-a383-7042190b5d23.png)
+
+Fun fact: This is called af++ or AxylFetch++ because this was actually based on AxylFetch once, then got modified further
 
 ### [FAQs](https://github.com/Chick2D/neofetch-themes/wiki/FAQs)
 
