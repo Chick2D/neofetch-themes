@@ -95,7 +95,7 @@ Note: you are required to manually change the distro ascii in the config
 
 [af++](https://github.com/chick2d/neofetch-themes/blob/main/small/af++)
 ---
-![](https://user-images.githubusercontent.com/86041547/183236200-8c5b5fed-0a8f-416e-a383-7042190b5d23.png)
+![](https://user-images.githubusercontent.com/86041547/183238998-bebcc068-01b1-4650-8777-d68cd37d960d.png)
 
 Fun fact: This is called af++ or AxylFetch++ because this was actually based on AxylFetch once, then got modified further
 
