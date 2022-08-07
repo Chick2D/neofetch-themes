@@ -63,12 +63,11 @@ NOTE: Same as Bejkon 2 but line 741
 [Boxes](https://github.com/Chick2D/neofetch-themes/blob/main/normal/boxes.conf)
 ---
 ![](https://media.discordapp.net/attachments/476369660917579776/999305515911876608/unknown.png)
-# Eldfetch
 
-[eldfetch](https://cdn.discordapp.com/attachments/971699312855760919/1005813737690775594/unknown.png)
+[Eldfetch](https://github.com/Chick2D/neofetch-themes/blob/main/normal/eldfetch.conf)
 ---
+![eldfetch](https://cdn.discordapp.com/attachments/971699312855760919/1005813737690775594/unknown.png)
 
-# Hybrid
 
 # Small:
 Note: you are required to manually change the distro ascii in the config
