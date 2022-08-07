@@ -138,6 +138,11 @@ where `<folder>` is the section in this readme, while `<file>` is the file name 
 > For example: If you want papirus, it'd be `mv neofetch-themes/normal/papirus.conf ~/.config/neofetch/config.conf`.
 </details>
 
+Contribution
+---
+Send a pull request containing your file in the appropriate directory,
+a screenshot in the readme and it's name, you can understand the syntax yourself its very eay
+
 Support
 ---
  
