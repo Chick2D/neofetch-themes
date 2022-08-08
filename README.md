@@ -1,12 +1,18 @@
 # Neofetch Themes
-#### [Discord](https://discord.gg/tuWnYReXbS) • Reddit • GitHub
----
-<img src="https://cdn.discordapp.com/attachments/635625925748457482/864406818545860659/unknown.png" alt="img" align="right" width="300px">  
 
+---
+
+<p align="center">
+  <img width="1000" src="https://cdn.discordapp.com/attachments/635625925748457482/864406818545860659/unknown.png" alt="Material Bread logo">
+</p>
 
 A project which aims at making your life more convinient by putting a bunch of neofetch configs in a single place.
 
 Video Showcase/Tutorial: https://www.youtube.com/watch?v=aQ44CafqcH0&feature=youtu.be
+
+<h4 align="center"> 
+<a href="https://discord.gg/tuWnYReXbS">Discord</a> • <a href="https://www.reddit.com/user/Chicki2D/">Reddit</a> • <a href="https://github.com/Chick2D">Github</a>
+</h4>
 
 # Normal:
 
@@ -151,6 +157,6 @@ Support
  
 I'd really appreciate any kind of support for me
 
-I'd prefer if I got gifted an Amazon or a Cubelelo giftcard, just message me on [Discord](https://discord.gg/tuWnYReXbS) or Reddit.
+I'd prefer if I got gifted an Amazon or a Cubelelo giftcard, just message me on [Discord](https://discord.gg/tuWnYReXbS) or [Reddit](https://www.reddit.com/user/Chicki2D/)
 
 BTC: `1HffvknYXCbLsqiWHtUUCVKbkWVLKxdDim`
