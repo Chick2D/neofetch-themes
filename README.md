@@ -153,8 +153,17 @@ where `<folder>` is the section in this readme, while `<file>` is the file name 
 
 Contribution
 ---
-Send a pull request containing your file in the appropriate directory,
-a screenshot in the readme and it's name, you can understand the syntax yourself its very eay
+Please don't remove the link to this repo from the configs and If you post this on reddit try mention which neofetch-theme you're using
+> For example \
+Distro: Arch Linux \
+WM: bspwm \
+Terminal: alacritty \
+Neofetch Theme: axylfetch
+
+The latter is more so a suggestion so it brings more awareness to the project easier than a must unlike the former
+
+To add your own theme send a pull request containing your file in the appropriate directory,
+a screenshot in the readme and it's name, you can understand the syntax yourself its very easy
 
 Support
 ---
