@@ -30,9 +30,13 @@ NOTE: Run `yay -S ttf-material-design-icons-extended`, otherwise the `pacman` pa
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479141004910622/unknown.png)
 
-[ozozFetch](https://github.com/Chick2D/neofetch-themes/blob/main/normal/ozozFetch.conf)
+[ozozFetch](https://github.com/mmsaeed509/neofetch-themes/blob/main/normal/ozozfetch)
 ---
-![ozozFetch](https://user-images.githubusercontent.com/62524855/183044688-c979f01e-1479-4111-b169-98506738ccab.png)
+![ozozFetch](https://user-images.githubusercontent.com/62524855/183531740-c36d6df2-6245-4dad-bd9d-0abc892cf9a1.gif)
+
+[ozozPredatorFetch](https://github.com/mmsaeed509/neofetch-themes/blob/main/normal/ozozPredatorFetch.conf)
+---
+![ozozPredatorFetch](https://user-images.githubusercontent.com/62524855/183531885-452c1734-b5c6-40a4-a4f7-7677c36d6404.gif)
 
 [Talljoe's Fetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/talljoe.conf)
 ---
@@ -80,11 +84,11 @@ Note: you are required to manually change the distro ascii in the config
 
 [ozozFetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/ozozfetch.conf)
 ---
-![ozozFetch](https://user-images.githubusercontent.com/62524855/183045419-00daea1e-84a1-4b43-a46f-2e0de428416e.png)
+![ozozFetchSmall](https://user-images.githubusercontent.com/62524855/183532730-fc09829c-2736-40d6-a2ce-20e2e24453cb.gif)
 
 [ozozFetch_v2](https://github.com/Chick2D/neofetch-themes/blob/main/small/ozozfetch2.conf)
 ---
-![ozozFetch_v2](https://user-images.githubusercontent.com/62524855/183125429-ddd8fd92-4fb3-4a40-a2ad-97a3d0e44d7a.png)
+![ozozFetchSmallV2](https://user-images.githubusercontent.com/62524855/183532188-b17e85e7-0143-4944-9768-11fc7f6c9a29.gif)
 
 [Smallfetch](https://github.com/chick2d/neofetch-themes/blob/main/small/smallfetch.conf)
 ---
