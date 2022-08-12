@@ -78,6 +78,9 @@ NOTE: Same as Bejkon 2 but line 741
 ---
 ![eldfetch](https://cdn.discordapp.com/attachments/971699312855760919/1005813737690775594/unknown.png)
 
+[Kenielf](https://github.com/kenielf/dotfiles/blob/2c5db620b8f46b987e953700992a08c45249734f/insp3442-arch/.config/neofetch/config.conf)
+---
+![Kenielf](https://github.com/kenielf/dotfiles/blob/2c5db620b8f46b987e953700992a08c45249734f/img/showcase--neofetch--insp3442-arch.png)
 
 # Small:
 Note: you are required to manually change the distro ascii in the config
