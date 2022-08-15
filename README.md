@@ -6,7 +6,7 @@
   <img width="1000" src="https://cdn.discordapp.com/attachments/635625925748457482/864406818545860659/unknown.png" alt="Material Bread logo">
 </p>
 
-A project which aims at making your life more convinient by putting a bunch of neofetch configs in a single place.
+A project which aims at making your life more convenient by putting a bunch of neofetch configs in a single place.
 
 Video Showcase/Tutorial: https://www.youtube.com/watch?v=aQ44CafqcH0&feature=youtu.be
 
@@ -24,7 +24,7 @@ Video Showcase/Tutorial: https://www.youtube.com/watch?v=aQ44CafqcH0&feature=you
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479100232097842/unknown.png)
 
-NOTE: Run `yay -S ttf-material-design-icons-extended`, otherwise the `pacman` packages won't work, I don't know how to fix it for non Arch-based distros.
+NOTE: On Arch-based distros, run `yay -S ttf-material-design-icons-extended`, otherwise the `pacman` packages won't work. On other distros you can install Material Design Icons Desktop TTF from [this repository](https://github.com/Templarian/MaterialDesign-Font).
 
 [idlifetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/idlifetch.conf)
 ---
@@ -170,7 +170,7 @@ a screenshot in the readme and it's name, you can understand the syntax yourself
 
 Support
 ---
- 
+
 I'd really appreciate any kind of support for me
 
 I'd prefer if I got gifted an Amazon or a Cubelelo giftcard, just message me on [Discord](https://discord.gg/tuWnYReXbS) or [Reddit](https://www.reddit.com/user/Chicki2D/)
