@@ -115,6 +115,10 @@ Note: you are required to manually change the distro ascii in the config
 
 Fun fact: This is called af++ or AxylFetch++ because this was actually based on AxylFetch once, then got modified further
 
+[SimpleFetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/simplefetch.conf)
+---
+![](https://github.com/gosxrgxx/dotfiles/blob/main/dot_config/neofetch/screenshot.png?raw=true)
+
 ### [FAQs](https://github.com/Chick2D/neofetch-themes/wiki/FAQs)
 
 ### Installation 
