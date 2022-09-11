@@ -85,14 +85,6 @@ NOTE: Same as Bejkon 2 but line 741
 # Small:
 Note: you are required to manually change the distro ascii in the config
 
-[ozozFetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/ozozfetch.conf)
----
-![ozozFetchSmall](https://user-images.githubusercontent.com/62524855/183532730-fc09829c-2736-40d6-a2ce-20e2e24453cb.gif)
-
-[ozozFetch_v2](https://github.com/Chick2D/neofetch-themes/blob/main/small/ozozfetch2.conf)
----
-![ozozFetchSmallV2](https://user-images.githubusercontent.com/62524855/183532188-b17e85e7-0143-4944-9768-11fc7f6c9a29.gif)
-
 [Smallfetch](https://github.com/chick2d/neofetch-themes/blob/main/small/smallfetch.conf)
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479504386850858/unknown.png)
@@ -115,14 +107,21 @@ Note: you are required to manually change the distro ascii in the config
 
 Fun fact: This is called af++ or AxylFetch++ because this was actually based on AxylFetch once, then got modified further
 
+[ozozFetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/ozozfetch.conf)
+---
+![ozozFetchSmall](https://user-images.githubusercontent.com/62524855/183532730-fc09829c-2736-40d6-a2ce-20e2e24453cb.gif)
+
+[ozozFetch_v2](https://github.com/Chick2D/neofetch-themes/blob/main/small/ozozfetch2.conf)
+---
+![ozozFetchSmallV2](https://user-images.githubusercontent.com/62524855/183532188-b17e85e7-0143-4944-9768-11fc7f6c9a29.gif)
+
 [SimpleFetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/simplefetch.conf)
 ---
 ![](https://github.com/gosxrgxx/dotfiles/blob/main/dot_config/neofetch/screenshot.png?raw=true)
 
-[PenguinFetch](https://github.com/TanbinIslam43/mydotfiles/blob/main/.config/neofetch/config.conf)
+[PenguinFetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/penguinfetch.conf)
 ---
 ![](https://github.com/TanbinIslam43/mydotfiles/blob/main/.config/neofetch/screenshot.png)
-
 
 ### [FAQs](https://github.com/Chick2D/neofetch-themes/wiki/FAQs)
 
