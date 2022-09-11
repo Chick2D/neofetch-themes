@@ -119,6 +119,11 @@ Fun fact: This is called af++ or AxylFetch++ because this was actually based on 
 ---
 ![](https://github.com/gosxrgxx/dotfiles/blob/main/dot_config/neofetch/screenshot.png?raw=true)
 
+[PenguinFetch](https://github.com/TanbinIslam43/mydotfiles/blob/main/.config/neofetch/config.conf)
+---
+![](https://github.com/TanbinIslam43/mydotfiles/blob/main/.config/neofetch/screenshot.png)
+
+
 ### [FAQs](https://github.com/Chick2D/neofetch-themes/wiki/FAQs)
 
 ### Installation 
