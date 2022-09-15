@@ -26,6 +26,10 @@ Video Showcase/Tutorial: https://www.youtube.com/watch?v=aQ44CafqcH0&feature=you
 
 NOTE: On Arch-based distros, run `yay -S ttf-material-design-icons-extended`, otherwise the `pacman` packages won't work. On other distros you can install Material Design Icons Desktop TTF from [this repository](https://github.com/Templarian/MaterialDesign-Font).
 
+[acenoster fetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/acenoster.conf)
+---
+![acenoster fetch](https://user-images.githubusercontent.com/61367380/190314282-6736ccff-b218-4207-9b5d-0b4a653dd5e5.png)
+
 [idlifetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/idlifetch.conf)
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479141004910622/unknown.png)
