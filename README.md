@@ -165,7 +165,11 @@ in your preferred folder.
 mv neofetch-themes/<folder>/<file> ~/.config/neofetch/config.conf
 ```
 where `<folder>` is the section in this readme, while `<file>` is the file name of the config of this theme.
-> For example: If you want papirus, it'd be `mv neofetch-themes/normal/papirus.conf ~/.config/neofetch/config.conf`.
+> For example: If you want papirus, it'd be
+```
+mv neofetch-themes/normal/papirus.conf ~/.config/neofetch/config.conf`
+```
+
 </details>
 
 Contribution
