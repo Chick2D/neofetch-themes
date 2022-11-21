@@ -87,6 +87,8 @@ NOTE: Same as Bejkon 2 but line 741
 [Kenielf](https://github.com/kenielf/dotfiles/blob/2c5db620b8f46b987e953700992a08c45249734f/insp3442-arch/.config/neofetch/config.conf)
 ---
 ![Kenielf](https://github.com/kenielf/dotfiles/blob/2c5db620b8f46b987e953700992a08c45249734f/img/showcase--neofetch--insp3442-arch.png)
+
+[troutfetch](https://github.com/Chick2D/neofetch-themes/blob.main/normal/troutfetch.conf)
 ---
 ![troutfetch](https://user-images.githubusercontent.com/99826409/203158696-2db51171-0f17-48ba-8f5d-d49d6a49a4ce.png)
 
