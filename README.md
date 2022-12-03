@@ -135,7 +135,7 @@ Fun fact: This is called af++ or AxylFetch++ because this was actually based on 
 
 [hfetch-nt](https://github.com/Chick2D/neofetch-themes/blob/main/small/hfetch-nt.conf)
 ---
-![](https://user-images.githubusercontent.com/119129086/205439388-113f217b-6291-495b-89e4-bfd1f2dfbb9e.png)
+![](https://user-images.githubusercontent.com/119129086/205440325-9b147b81-9431-4498-a141-d8ceabb5bca6.png)
 
 ### [FAQs](https://github.com/Chick2D/neofetch-themes/wiki/FAQs)
 
