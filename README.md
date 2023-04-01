@@ -64,7 +64,7 @@ NOTE: To use the logo you need to change the ascii source in line 743 to where y
 
 NOTE: Same as Bejkon 2 but line 741
 
-[Kremfetch](https://github.com/Chick2D/neofetch-themes/tree/main/normal/remfetch)
+[Remfetch](https://github.com/Chick2D/neofetch-themes/tree/main/normal/remfetch)
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/1002653085925122088/screenshot.png)
 
