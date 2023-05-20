@@ -135,7 +135,7 @@ Fun fact: This is called af++ or AxylFetch++ because this was actually based on 
 
 [MinecraftFetch](https://github.com/ignxcy/neofetch-themes/blob/main/small/minecraftfetch/conffig.conf)
 ---
-![](https://imgur.com/iA3Bors)
+![](https://i.imgur.com/iA3Bors.png)
 
 ### [FAQs](https://github.com/Chick2D/neofetch-themes/wiki/FAQs)
 
