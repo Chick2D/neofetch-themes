@@ -111,6 +111,10 @@ Note: you are required to manually change the distro ascii in the config
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479412208615534/unknown.png)
 
+[AxylFetch EndeavourOS](https://github.com/chick2d/neofetch-themes/blob/main/small/axylfetchEOS)
+---
+![](https://cdn.discordapp.com/attachments/945032803035250758/1160669332385304727/image.png?ex=6535808d&is=65230b8d&hm=4a0aa5fe912dc4bd0d17b66f5c8df6ed035b878007826ba976fc3a1f334179f9&)
+
 [af++](https://github.com/chick2d/neofetch-themes/blob/main/small/af++)
 ---
 ![](https://user-images.githubusercontent.com/86041547/183238998-bebcc068-01b1-4650-8777-d68cd37d960d.png)
