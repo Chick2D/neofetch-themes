@@ -92,6 +92,10 @@ NOTE: Same as Bejkon 2 but line 741
 ---
 ![troutfetch](https://user-images.githubusercontent.com/99826409/203158696-2db51171-0f17-48ba-8f5d-d49d6a49a4ce.png)
 
+[tuxNature](https://github.com/MD-DILDAR-MANDAL/neofetch-themes/blob/main/normal/tuxNature/config.conf)
+---
+![tuxNature](normal/tuxNature/tn2.png)
+
 # Small:
 Note: you are required to manually change the distro ascii in the config
 
