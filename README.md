@@ -107,6 +107,14 @@ Note: you are required to manually change the distro ascii in the config
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479450821365770/unknown.png)
 
+[BMOfetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/bmofetch)
+---
+![](https://cdn.discordapp.com/attachments/840232870491979807/1263886973278621767/BMOfetch.png)
+
+NOTE: You will need to install any one Nerd font and use it in your terminal for the above theme to render the icons correctly.
+To install the fonts, download any one monospaced font from [Nerd fonts download page](https://www.nerdfonts.com/font-downloads) and extract the downloaded `.zip` file and copy its contents into a folder in either `\usr\share\fonts` or `~\.local\share\fonts`
+if the font is **not monospaced** you will perhaps need to change the gap size in the [config](https://github.com/Chick2D/neofetch-themes/blob/main/small/bmofetch/bmofetch.conf) for the speech bubble to overlay correctly.
+
 [Dotfetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/dotfetch.conf)
 ---
 ![](https://cdn.discordapp.com/attachments/515557109404794905/995619800032215050/RDT_20220710_1445015126100784893260744.gif)
