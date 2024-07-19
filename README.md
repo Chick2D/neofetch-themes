@@ -109,7 +109,7 @@ Note: you are required to manually change the distro ascii in the config
 
 [BMOfetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/bmofetch)
 ---
-![](https://cdn.discordapp.com/attachments/840232870491979807/1263886973278621767/BMOfetch.png?ex=669bddf8&is=669a8c78&hm=89a8125d5b4e15ffb1649b2f7749bdd7f7734b23633ceeada8ab07d2b8ee0d82&)
+![](https://cdn.discordapp.com/attachments/840232870491979807/1263894895043547136/bmofetch.png?ex=669be559&is=669a93d9&hm=094344db060cd027c9770e75e45311cf693c8a2340467509cc0e17ebbd49fce5&)
 
 NOTE: You will need to install any one Nerd font and use it in your terminal for the above theme to render the icons correctly.
 To install the fonts, download any one monospaced font from [Nerd fonts download page](https://www.nerdfonts.com/font-downloads) and extract the downloaded `.zip` file and copy its contents into a folder in either `\usr\share\fonts` or `~\.local\share\fonts`.
