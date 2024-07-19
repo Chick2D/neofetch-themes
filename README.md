@@ -109,11 +109,11 @@ Note: you are required to manually change the distro ascii in the config
 
 [BMOfetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/bmofetch)
 ---
-![](https://cdn.discordapp.com/attachments/840232870491979807/1263886973278621767/BMOfetch.png)
+![](https://cdn.discordapp.com/attachments/840232870491979807/1263886973278621767/BMOfetch.png?ex=669bddf8&is=669a8c78&hm=89a8125d5b4e15ffb1649b2f7749bdd7f7734b23633ceeada8ab07d2b8ee0d82&)
 
 NOTE: You will need to install any one Nerd font and use it in your terminal for the above theme to render the icons correctly.
-To install the fonts, download any one monospaced font from [Nerd fonts download page](https://www.nerdfonts.com/font-downloads) and extract the downloaded `.zip` file and copy its contents into a folder in either `\usr\share\fonts` or `~\.local\share\fonts`
-if the font is **not monospaced** you will perhaps need to change the gap size in the [config](https://github.com/Chick2D/neofetch-themes/blob/main/small/bmofetch/bmofetch.conf) for the speech bubble to overlay correctly.
+To install the fonts, download any one monospaced font from [Nerd fonts download page](https://www.nerdfonts.com/font-downloads) and extract the downloaded `.zip` file and copy its contents into a folder in either `\usr\share\fonts` or `~\.local\share\fonts`.
+If the font is **not monospaced** you will perhaps need to change the gap size in the [config](https://github.com/Chick2D/neofetch-themes/blob/main/small/bmofetch/bmofetch.conf) for the speech bubble to overlay correctly.
 
 [Dotfetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/dotfetch.conf)
 ---
