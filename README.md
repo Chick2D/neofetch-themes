@@ -161,14 +161,14 @@ Fun fact: This is called af++ or AxylFetch++ because this was actually based on 
 ---
 ![](https://cdn.discordapp.com/attachments/840232870491979807/1263894895043547136/bmofetch.png?ex=669be559&is=669a93d9&hm=094344db060cd027c9770e75e45311cf693c8a2340467509cc0e17ebbd49fce5&)
 
+**if you want to change the speech bubble text**, you can do so by running [bmosay.sh](https://github.com/Chick2D/neofetch-themes/blob/main/small/bmofetch/bmosay.sh) in your terminal:
+```bash
+cd ~/.config/neofetch/bmofetch/ && sh bmosay.sh "your text here" && cd
+```
+
 NOTE: You will need to install any one Nerd font and use it in your terminal for the above theme to render the icons correctly.
 To install the fonts, download any one monospaced font from [Nerd fonts download page](https://www.nerdfonts.com/font-downloads) and extract the downloaded `.zip` file and copy its contents into a folder in either `\usr\share\fonts` or `~\.local\share\fonts`.
 If the font is **not monospaced** you will perhaps need to change the gap size in the [config](https://github.com/Chick2D/neofetch-themes/blob/main/small/bmofetch/bmofetch.conf) for the speech bubble to overlay correctly.
-
-**if you want to change the speech bubble text**, you can do so by running [bmosay.sh](https://github.com/Chick2D/neofetch-themes/blob/main/small/bmofetch/bmosay.sh) in your terminal:
-```bash
-sh ~/.config/neofetch/bmofetch/bmosay.sh <your text here>
-```
 
 [MinecraftFetch](https://github.com/ignxcy/neofetch-themes/blob/main/small/minecraftfetch/config.conf)
 ---
