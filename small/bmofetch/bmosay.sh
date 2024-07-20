@@ -3,6 +3,8 @@
 # to make BMO say the specified string. https://github.com/Chick2D/neofetch-themes/blob/main/small/bmofetch/
 # Made by https://github.com/donatienLeray
 
+# Global variable for verbose flag
+VERBOSE=0
 
 # Function to replace a string in a specific line of a file
 replace_string_in_file() {
@@ -29,19 +31,34 @@ replace_string_in_file() {
         exit 1
     fi
 
-    echo "Successfully replaced line $line_number in $file_path with '$new_string'"
+    # Debug message for verbose flag
+    if [[ $VERBOSE -eq 1 ]]; then
+        echo "replaced line $line_number in $file_path with '$new_string'"
+    fi
 }
 
 # Check if the correct number of arguments is provided
-if [ "$#" -ne 1 ]; then
-    echo "Usage: $0 <new_string>"
-    exit 1
-fi
+#if [ "$#" -ne 1 ]; then
+#    echo "Usage: $0 <new_string>"
+#    exit 1
+#fi
+
+# Check if the correct number of arguments is provided
+    if [[ "$#" -lt 1 ]] || [[ "$#" -gt 2 ]]; then
+        printf "Usage: %s [-v] <new_string>\n" "$0" >&2
+        exit 1
+    fi
+
+    # Parse arguments
+    if [[ "$1" == "-v" ]]; then
+        VERBOSE=1
+        shift
+    fi
 
 # clean up multiple spaces
 input=$(echo "$1" | tr -s ' ')
 
-# get the size of the speach bubble
+# get the inner size of the speach bubble
 bub_len=$((${#input}+2))
 
 # make the top line
@@ -81,7 +98,6 @@ fi
 if [[ $end_center_line =~ ^[[:space:]].* ]]; then
     start_center_text="$center_text"
     end_center_line=""
-
 fi
 
 # Get the path of the script
