@@ -132,7 +132,7 @@ Fun fact: This is called af++ or AxylFetch++ because this was actually based on 
 
 [BMOfetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/bmofetch)
 ---
-![](https://cdn.discordapp.com/attachments/840232870491979807/1263894895043547136/bmofetch.png?ex=669be559&is=669a93d9&hm=094344db060cd027c9770e75e45311cf693c8a2340467509cc0e17ebbd49fce5&)
+![](https://cdn.discordapp.com/attachments/840232870491979807/1264260666043273337/Screencast_20240720_182835.gif?ex=669d39ff&is=669be87f&hm=9d510983f74a4a077525930eff48f4ea79bfc5c885a1912a3ce1b8d0f5880b22&)
 
 **if you want to change the speech bubble text**, you can do so by running [bmosay.sh](https://github.com/Chick2D/neofetch-themes/blob/main/small/bmofetch/bmosay.sh) in your terminal:
 ```bash
