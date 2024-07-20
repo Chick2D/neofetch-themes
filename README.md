@@ -136,7 +136,7 @@ Fun fact: This is called af++ or AxylFetch++ because this was actually based on 
 
 **if you want to change the speech bubble text**, you can do so by running [bmosay.sh](https://github.com/Chick2D/neofetch-themes/blob/main/small/bmofetch/bmosay.sh) in your terminal:
 ```bash
-cd ~/.config/neofetch/bmofetch/ && sh bmosay.sh "your text here" && cd
+ sh path_to_bmofetch/bmosay.sh "your text here"
 ```
 
 NOTE: You will need to install any one Nerd font and use it in your terminal for the above theme to render the icons correctly.
