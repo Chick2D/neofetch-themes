@@ -18,11 +18,13 @@ Video Showcase/Tutorial: https://www.youtube.com/watch?v=aQ44CafqcH0&feature=you
 
 [insert name](https://github.com/chick2d/neofetch-themes/blob/main/normal/config.conf)
 ---
-![](https://cdn.discordapp.com/attachments/883138437413220412/930478963552288789/unknown.png)
+![](https://github.com/user-attachments/assets/21d05f21-9645-4d5d-b47b-023fb83047a2)
+
 
 [insert name 2 electric boogaloo](https://github.com/chick2d/neofetch-themes/blob/main/normal/config2.conf)
 ---
-![](https://cdn.discordapp.com/attachments/883138437413220412/930479100232097842/unknown.png)
+![](https://github.com/user-attachments/assets/a7fe89af-fc42-4248-b6d6-8368352826ab)
+
 
 NOTE: On Arch-based distros, run `yay -S ttf-material-design-icons-extended`, otherwise the `pacman` packages won't work. On other distros you can install Material Design Icons Desktop TTF from [this repository](https://github.com/Templarian/MaterialDesign-Font).
 
@@ -34,7 +36,7 @@ NOTE: You will need to install any one Nerd font and use it in your terminal for
 
 [idlifetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/idlifetch.conf)
 ---
-![](https://cdn.discordapp.com/attachments/883138437413220412/930479141004910622/unknown.png)
+![](https://github.com/user-attachments/assets/2961d204-664b-48da-89a6-520aaabee23b)
 
 [ozozFetch](https://github.com/mmsaeed509/neofetch-themes/blob/main/normal/ozozfetch)
 ---
@@ -46,7 +48,7 @@ NOTE: You will need to install any one Nerd font and use it in your terminal for
 
 [Talljoe's Fetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/talljoe.conf)
 ---
-![](https://media.discordapp.net/attachments/883138437413220412/930506977115791380/unknown.png?width=783&height=359)
+![](https://github.com/user-attachments/assets/a4a593f9-4f31-4bbc-b648-020da0e81678)
 
 [Onre's Fetch](https://github.com/Chick2D/neofetch-themes/blob/main/normal/onrefetch.conf)
 ---
@@ -54,35 +56,35 @@ NOTE: You will need to install any one Nerd font and use it in your terminal for
 
 [Bejkon](https://github.com/Chick2D/neofetch-themes/tree/main/normal/bejkon)
 ---
-![](https://cdn.discordapp.com/attachments/515557109404794905/1003552241669652480/RDT_20220801_1204219081639824454444879.jpg)
+![](https://github.com/user-attachments/assets/1a73d1cc-9641-4b46-b82a-99a9aecaab1f)
 
 NOTE: To use the logo you need to change the ascii source in line 743 to where your logo file is stored at.
 
 [Bejkon 2](https://github.com/Chick2D/neofetch-themes/tree/main/normal/bejkon2)
 ---
-![](https://cdn.discordapp.com/attachments/515557109404794905/1004117004577415189/RDT_20220727_2146317505033582455700240.jpg)
+![](https://github.com/user-attachments/assets/cb35bcea-0f83-4af6-9ad1-a4a5629d8722)
 
 NOTE: Same as Bejkon 2 but line 741
 
 [Remfetch](https://github.com/Chick2D/neofetch-themes/tree/main/normal/remfetch)
 ---
-![](https://cdn.discordapp.com/attachments/883138437413220412/1002653085925122088/screenshot.png)
+![](https://github.com/user-attachments/assets/ca9b9d8e-ba06-438f-b536-4eaf85604d99)
 
 [papirus](https://github.com/chick2d/neofetch-themes/blob/main/normal/papirus.conf)
 ---
-![](https://cdn.discordapp.com/attachments/993915832897908797/993918477649846372/unknown.png)
+![](https://github.com/user-attachments/assets/edda5e03-c770-49bf-9ffc-d66ed6f26ad8)
 
 [Mixedfetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/hybridfetch.conf)
 ---
-![](https://cdn.discordapp.com/attachments/780366738536792064/997469230708568144/Screenshot_2022-07-15_17-43-56.png)
+![](https://github.com/user-attachments/assets/f5aff3c6-633f-4803-b01a-aa1b6d2f6345)
 
 [Boxes](https://github.com/Chick2D/neofetch-themes/blob/main/normal/boxes.conf)
 ---
-![](https://media.discordapp.net/attachments/476369660917579776/999305515911876608/unknown.png)
+![](https://github.com/user-attachments/assets/40a88515-e207-45f0-b832-c09e66e5b23f)
 
 [Eldfetch](https://github.com/Chick2D/neofetch-themes/blob/main/normal/eldfetch.conf)
 ---
-![eldfetch](https://cdn.discordapp.com/attachments/971699312855760919/1005813737690775594/unknown.png)
+![image](https://github.com/user-attachments/assets/7623d044-672c-4667-9176-a942416083c1)
 
 [Kenielf](https://github.com/kenielf/dotfiles/blob/2c5db620b8f46b987e953700992a08c45249734f/insp3442-arch/.config/neofetch/config.conf)
 ---
@@ -101,23 +103,23 @@ Note: you are required to manually change the distro ascii in the config
 
 [Smallfetch](https://github.com/chick2d/neofetch-themes/blob/main/small/smallfetch.conf)
 ---
-![](https://cdn.discordapp.com/attachments/883138437413220412/930479504386850858/unknown.png)
+![](https://github.com/user-attachments/assets/f50cca86-b29e-4148-9655-9c27c2d611f5)
 
 [Blockfetch](https://github.com/chick2d/neofetch-themes/blob/main/small/blockfetch.conf)
 ---
-![](https://cdn.discordapp.com/attachments/883138437413220412/930479450821365770/unknown.png)
+![](https://github.com/user-attachments/assets/5af8d962-62c8-41b9-85c9-79ecfce598b1)
 
 [Dotfetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/dotfetch.conf)
 ---
-![](https://cdn.discordapp.com/attachments/515557109404794905/995619800032215050/RDT_20220710_1445015126100784893260744.gif)
+![RDT_20220710_1445015126100784893260744](https://github.com/user-attachments/assets/e58d07ba-a282-40b7-9853-2af085cfe26a)
 
 [AxylFetch](https://github.com/chick2d/neofetch-themes/blob/main/small/axylfetch.conf)
 ---
-![](https://cdn.discordapp.com/attachments/883138437413220412/930479412208615534/unknown.png)
+![](https://github.com/user-attachments/assets/616f2817-cacd-4405-8f60-ad91d1b13825)
 
 [AxylFetch EndeavourOS](https://github.com/chick2d/neofetch-themes/blob/main/small/axylfetchEOS)
 ---
-![](https://cdn.discordapp.com/attachments/945032803035250758/1160669332385304727/image.png?ex=6535808d&is=65230b8d&hm=4a0aa5fe912dc4bd0d17b66f5c8df6ed035b878007826ba976fc3a1f334179f9&)
+![](https://github.com/user-attachments/assets/24140ebc-742e-4ac3-8c30-4bafab1c5f74)
 
 [af++](https://github.com/chick2d/neofetch-themes/blob/main/small/af++)
 ---
