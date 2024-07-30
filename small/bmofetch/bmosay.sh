@@ -3,10 +3,12 @@
 # to make BMO say the specified string. https://github.com/Chick2D/neofetch-themes/blob/main/small/bmofetch/
 # Made by https://github.com/donatienLeray
 
-# Global variable for verbose flag
-VERBOSE=0
+# Global variable for flags
+VERBOSE=false
+QUIET=false
+RANDOM_MODE=false
 
-# Function to replace a string in a specific line of a file
+# Function to replace a specific line of a file wih a new string
 replace_string_in_file() {
     local file_path="$1"
     local line_number="$2"
@@ -14,49 +16,101 @@ replace_string_in_file() {
 
     # Check if the file exists
     if [ ! -f "$file_path" ]; then
-        echo -e "\033[31mError: File '$file_path' not found.\033[39m"
+        if [[ "$QUIET" = false ]]; then
+            echo -e "\033[31mError: File '$file_path' not found.\033[39m" >&2
+        fi
         exit 1
     fi
 
     # Check if the line number is valid
     total_lines=$(wc -l < "$file_path")
     if [ "$line_number" -gt "$total_lines" ] || [ "$line_number" -lt 1 ]; then
-        echo -e "\033[31mError: Line number $line_number is out of range.\033[39m"
+        if [[ "$QUIET" = false ]]; then
+            echo -e "\033[31mError: Line number $line_number is out of range.\033[39m" >&2
+        fi
         exit 1
     fi
 
     # Replace the specified line with the new string
     if ! sed -i "${line_number}s/.*/${new_string}/" "$file_path"; then
-        echo -e "\033[31mError: Failed to replace line $line_number in file '$file_path'.\033[39m"
+        if [[ "$QUIET" = false ]]; then
+            echo -e "\033[31mError: Failed to replace line $line_number in file '$file_path'\033[39m\n with: $new_string" >&2
+        fi
         exit 1
     fi
 
     # Debug message for verbose flag
-    if [[ $VERBOSE -eq 1 ]]; then
+    if [[ "$VERBOSE" = true ]]; then
         echo "replaced line $line_number in $file_path with '$new_string'"
     fi
 }
 
-# Check if the correct number of arguments is provided
-#if [ "$#" -ne 1 ]; then
-#    echo "Usage: $0 <new_string>"
-#    exit 1
-#fi
+# Function to print the help message
+print_help() {
+    echo
+    echo -e "\u001b[1mSYNOPSIS:" 
+    echo -e "  sh $0 [options] <argument>\u001b[0m"
+    echo
+    echo -e "\u001b[1mDESCRIPTION:\u001b[0m"
+    echo "  This script enables you to change the text BMO says when using neofetch with the bmofetch.conf file."
+    echo "  You can specify a new string for BMO to say, or get a random line from a file."
+    echo "  you can find the complete neofetch-themes repository at https://github.com/donatienLeray"
+    echo
+    echo -e "\u001b[1mOPTIONS:\u001b[0m"
+    echo "  -v, --verbose       Enable verbose mode.(prints debug messages)"
+    echo "  -q, --quiet         Suppress output."
+    echo "  -r, --random        Specify a file to get a random line from."
+    echo "  -h, --help          Display this help message and exit."
+    echo "  -vq, -qv            Enable both verbose and quiet mode.(only prints debug messages)"
+    echo "  -**,-***            Any combination of r, v, q can be used instead  of the above"
+    echo
+    echo -e "\u001b[1mEXAMPLES:\u001b[0m"
+    echo -e "  sh $0 \"Hello, world!\""
+    echo "  sh $0 -vq --random file.txt"
+    echo "  sh $0 -qr file.txt"
+    echo "  sh $0 --help"
+    echo
+    exit 0
+}
 
 # Check if the correct number of arguments is provided
-    if [[ "$#" -lt 1 ]] || [[ "$#" -gt 2 ]]; then
-        printf "Usage: %s [-v] <new_string>\n" "$0" >&2
+if [[ "$#" -lt 1 ]] || [[ "$#" -gt 4 ]]; then
+    printf "Usage: sh %s [-v|--verbose] [-q|--quiet]  [-r|--random <file>] <new_string> [-h| --help] \n" "$0" >&2
+    exit 0
+fi
+
+# Parse arguments
+# getops couldn't be used here bc. it doesn't support long options
+while [[ "$#" -gt 0 ]]; do
+    case "$1" in
+        -v|--verbose) VERBOSE=true ;;
+        -q|--quiet) QUIET=true ;;
+        -r|--random) RANDOM_MODE=true;;
+        -h|--help) print_help ;;
+        -vq|-qv) VERBOSE=true; QUIET=true ;;
+        -rv|-vr) RANDOM_MODE=true; VERBOSE=true ;;
+        -rq|-qr) RANDOM_MODE=true; QUIET=true ;;
+        -rvq|-rqv|-vqr|-vrq|-qrv|-qvr) RANDOM_MODE=true; VERBOSE=true; QUIET=true ;;
+        *)  break ;;
+    esac
+    shift
+done
+
+# Check if the random flag is set
+if [[ "$RANDOM_MODE" = true ]]; then
+    # Check if the file exists
+    if [ ! -f "$1" ]; then
+        if [[ "$QUIET" = false ]]; then
+            echo -e "\033[31mError: File '$1' not found.\033[39m" >&2
+        fi
         exit 1
     fi
-
-    # Parse arguments
-    if [[ "$1" == "-v" ]]; then
-        VERBOSE=1
-        shift
-    fi
-
-# clean up multiple spaces
-input=$(echo "$1" | tr -s ' ')
+    # Get a random line from the file
+    input=$(shuf -n 1 $1 | tr -s ' ')
+else
+    # Get the input string
+    input=$(echo "$1" | tr -s ' ')
+fi 
 
 # get the inner size of the speach bubble
 bub_len=$((${#input}+2))
@@ -111,11 +165,14 @@ replace_string_in_file "$ascii_file" "1" "\\\u001b[1m                  $start_to
 replace_string_in_file "$ascii_file" "2" "\\\033[36m     ˏ________ˎ   \\\033[39m$start_center_text"
 replace_string_in_file "$ascii_file" "3" "\\\033[36m    \\/|\\\033[39m ______\\\033[36m | \\\033[39m \\/$start_bottom_line"
 
-
 # make the end part of the speak bubble in the conf file (form the third text char to the end)
 replace_string_in_file "$conf_file" "5" "    prin \"$end_top_line\""
 replace_string_in_file "$conf_file" "6" "    prin \"$end_center_line\"" 
 replace_string_in_file "$conf_file" "7" "    prin \"$end_bottom_line\""
 
-# Success
-echo -e "\033[32mSuccess:BMO now says: $input\033[39m"
+# Success message (if not quiet)
+if [[ "$QUIET" = false ]]; then
+    echo -e "\033[32mSuccess: BMO now says \"$input\"\033[39m"
+fi
+
+exit 0
