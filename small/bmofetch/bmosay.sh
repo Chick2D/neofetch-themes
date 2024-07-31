@@ -1,5 +1,5 @@
 #!/bin/bash
-# This script replaces the text in the ASCII file and the configuration file
+# This script replaces the text in the ASCII file and the configuration file,
 # to make BMO say the specified string. https://github.com/Chick2D/neofetch-themes/blob/main/small/bmofetch/
 # Made by https://github.com/donatienLeray
 
@@ -45,6 +45,7 @@ replace_string_in_file() {
     fi
 }
 
+
 # Function to print the help message
 print_help() {
     echo
@@ -73,6 +74,7 @@ print_help() {
     exit 0
 }
 
+
 # Check if the correct number of arguments is provided
 if [[ "$#" -lt 1 ]] || [[ "$#" -gt 4 ]]; then
     printf "Usage: sh %s [-v|--verbose] [-q|--quiet]  [-r|--random <file>] <new_string> [-h| --help] \n" "$0" >&2
@@ -96,7 +98,7 @@ while [[ "$#" -gt 0 ]]; do
     shift
 done
 
-# Check if the random flag is set
+# If the random_mode flag is set
 if [[ "$RANDOM_MODE" = true ]]; then
     # Check if the file exists
     if [ ! -f "$1" ]; then
@@ -105,49 +107,52 @@ if [[ "$RANDOM_MODE" = true ]]; then
         fi
         exit 1
     fi
-    # Get a random line from the file
-    input=$(shuf -n 1 $1 | tr -s ' ')
+    # Get a random line from the file as the input
+    input=$(shuf -n 1 $1)
 else
     # Get the input string
-    input=$(echo "$1" | tr -s ' ')
+    input=$(echo "$1")
 fi 
 
-# get the inner size of the speach bubble
+# Clean up multiple and leading or trailing spaces
+input=$(echo "$input" | tr -s ' '| sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
+
+# Get the inner size of the speach bubble
 bub_len=$((${#input}+2))
 
-# make the top line
-tline=$(printf '_%.0s' $(seq 1 $bub_len))
-top_line="ˏ$tlineˎ"
+# Make the top line "ˏ______ˎ"
+top_line="ˏ$(printf '_%.0s' $(seq 1 $bub_len))ˎ"
 
-# make center text
+# Make center text "| text |"
 center_text="\| $input \|"
 
-# make the bottom line
-bline=$(printf 'ˉ%.0s' $(seq 1 $bub_len))
-bottom_line="\`$bline\´"
+# Make the bottom line "`ˉˉˉˉˉˉ´"
+bottom_line="\`$(printf 'ˉ%.0s' $(seq 1 $bub_len))\´"
 
-#default case for start part of the spank bubble 
+# The Speach bubble has to be cut in two parts: 
+# The first part will be in the ASCII file and the second part will be in the config file
+# Default case for start part of the speach bubble 
 start_top_line="$top_line"
 start_center_text="$center_text"
 start_bottom_line="$bottom_line"
-# deafault case for end part of the spank bubble
+# Deafault case for end part of the speach bubble
 end_top_line=""
 end_center_line=""
 end_bottom_line=""
 
-#if input string was not empty
+# If input string was not empty
 if [ "$bub_len" -gt 2 ]; then
-    # get the 4 first chars of the lines
+    # Get the 4 first chars of the lines
     start_top_line=${top_line:0:4}
     start_center_text=${center_text:0:5}
     start_bottom_line=${bottom_line:0:4}
-    # get the last chars of the lines
+    # Get rest chars of the lines
     end_top_line=${top_line: 4}
     end_center_line=${center_text: 5}
     end_bottom_line=${bottom_line: 4}
 fi
 
-# if the text part that gets rendered though the neofetch conf (using prin) 
+# If the text part that gets rendered though the neofetch conf (using prin) 
 # has a leading space, let it get rendered as ascii instead (prin does not render leading spaces)
 if [[ $end_center_line =~ ^[[:space:]].* ]]; then
     start_center_text="$center_text"
@@ -160,12 +165,12 @@ SCRIPTPATH="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 ascii_file="$SCRIPTPATH/bmo.txt"
 conf_file="$SCRIPTPATH/bmofetch.conf"
 
-# make the first part of the speak bubble in the ascii file (2 chars of the text)
+# Make the first part of the speak bubble in the ascii file (2 chars of the text)
 replace_string_in_file "$ascii_file" "1" "\\\u001b[1m                  $start_top_line"
 replace_string_in_file "$ascii_file" "2" "\\\033[36m     ˏ________ˎ   \\\033[39m$start_center_text"
 replace_string_in_file "$ascii_file" "3" "\\\033[36m    \\/|\\\033[39m ______\\\033[36m | \\\033[39m \\/$start_bottom_line"
 
-# make the end part of the speak bubble in the conf file (form the third text char to the end)
+# Make the end part of the speak bubble in the conf file (form the third text char to the end)
 replace_string_in_file "$conf_file" "5" "    prin \"$end_top_line\""
 replace_string_in_file "$conf_file" "6" "    prin \"$end_center_line\"" 
 replace_string_in_file "$conf_file" "7" "    prin \"$end_bottom_line\""
