@@ -156,7 +156,7 @@ fi
 # has a leading space, let it get rendered as ascii instead (prin does not render leading spaces)
 if [[ $end_center_line =~ ^[[:space:]].* ]]; then
     start_center_text="$center_text"
-    end_center_line=""
+    end_center_line="" #This will print a single whitespace overlapping the ascii
 fi
 
 # Get the path of the script
