@@ -49,13 +49,16 @@ replace_string_in_file() {
 # Function to print the help message
 print_help() {
     echo
+    echo "original: https://github.com/donatienLeray/bmofetch"
+    echo
     echo -e "\u001b[1mSYNOPSIS:" 
     echo -e "  sh $0 [options] <argument>\u001b[0m"
     echo
     echo -e "\u001b[1mDESCRIPTION:\u001b[0m"
     echo "  This script enables you to change the text BMO says when using neofetch with the bmofetch.conf file."
     echo "  You can specify a new string for BMO to say, or get a random line from a file."
-    echo "  you can find the complete neofetch-themes repository at https://github.com/donatienLeray"
+    echo "  you can find the complete neofetch-themes repository at:"
+    echo "  https://github.com/Chick2D/neofetch-themes/blob/main/small/bmofetch/"
     echo
     echo -e "\u001b[1mOPTIONS:\u001b[0m"
     echo "  -v, --verbose       Enable verbose mode.(prints debug messages)"
@@ -116,6 +119,14 @@ fi
 
 # Clean up multiple and leading or trailing spaces
 input=$(echo "$input" | tr -s ' '| sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
+
+# Check that input contains NO line breaks or carriage returns
+if [[ $input == *'\n'* ]] || [[ $input == *'\r'* ]]; then
+    if [[ "$QUIET" = false ]]; then
+        echo -e "\033[31mError: The input string cannot contain line breaks or carriage returns.\033[39m" >&2
+    fi
+    exit 1
+fi
 
 # Get the inner size of the speach bubble
 bub_len=$((${#input}+2))

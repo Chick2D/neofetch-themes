@@ -16,10 +16,12 @@ Video Showcase/Tutorial: https://www.youtube.com/watch?v=aQ44CafqcH0&feature=you
 
 # Overview
 
-**[Normal](#normal)**\
+**[Normal](#normal)**
+
 [acenoster fetch](#acenoster-fetch), [Bejkon](#bejkon), [Bejkon 2](#bejkon-2), [Boxes](#boxes), [Eldfetch](#eldfetch), [idlifetch](#idlifetch), [insert name](#insert-name), [insert name 2 electric boogaloo](#insert-name-2-electric-boogaloo), [Kenielf](#kenielf), [Mixedfetch](#mixedfetch), [Onre's Fetch](#onres-fetch), [ozozFetch](#ozozfetch), [ozozPredatorFetch](#ozozpredatorfetch), [papirus](#papirus), [Remfetch](#remfetch), [Talljoe's Fetch](#talljoes-fetch), [troutfetch](#troutfetch), [tuxNature](#tuxnature)
 
-**[Small](#small)**\
+**[Small](#small)**
+
 [af++](#af), [AxylFetch](#axylfetch), [AxylFetch EndeavourOS](#axylfetch-endeavouros), [Dotfetch](#dotfetch), [Blockfetch](#blockfetch), [BMOfetch](#bmofetch), [MinecraftFetch](#minecraftfetch), [ozozFetch](#ozozfetch), [ozozFetch_v2](#ozozfetch_v2), [PenguinFetch](#penguinfetch), [SimpleFetch](#simplefetch), [Smallfetch](#smallfetch)
 
 
