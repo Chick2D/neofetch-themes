@@ -229,6 +229,4 @@ Support
 
 I'd really appreciate any kind of support for me
 
-BTC: `bc1qk3ejh9t0lw344z8yn34pur4d4dqne5dpcnmfk7`
-
 Or dm me on [Reddit](https://www.reddit.com/user/Chicki2D/)
