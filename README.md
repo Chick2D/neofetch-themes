@@ -53,6 +53,7 @@ NOTE: Same as Bejkon but line 741
 ---
 ![image](https://github.com/user-attachments/assets/7623d044-672c-4667-9176-a942416083c1)
 
+
 [idlifetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/idlifetch.conf)
 ---
 ![](https://github.com/user-attachments/assets/2961d204-664b-48da-89a6-520aaabee23b)
