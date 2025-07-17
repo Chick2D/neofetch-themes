@@ -146,7 +146,7 @@ If the font is **not monospaced** you will perhaps need to change the gap size i
 ---
 ![RDT_20220710_1445015126100784893260744](https://github.com/user-attachments/assets/e58d07ba-a282-40b7-9853-2af085cfe26a)
 
-[MinecraftFetch](https://github.com/ignxcy/neofetch-themes/blob/main/small/minecraftfetch/config.conf)
+[MinecraftFetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/minecraftfetch/config.conf)
 ---
 ![](https://i.imgur.com/iA3Bors.png)
 
