@@ -108,6 +108,10 @@ NOTE: On Arch-based distros, run `yay -S ttf-material-design-icons-extended`, ot
 ---
 ![tuxNature](normal/tuxNature/tn2.png)
 
+[Gildenfetch](https://github.com/Qand7/neofetch-themes/blob/main/normal/Gildenfetch/Gildenfetch.conf)
+---
+![](normal/Gildenfetch/Gildedfetch.png)
+
 # Small:
 Note: you are required to manually change the distro ascii in the config
 
