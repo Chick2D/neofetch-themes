@@ -72,6 +72,10 @@ NOTE: On Arch-based distros, run `yay -S ttf-material-design-icons-extended`, ot
 ---
 ![Kenielf](https://github.com/kenielf/dotfiles/blob/2c5db620b8f46b987e953700992a08c45249734f/img/showcase--neofetch--insp3442-arch.png)
 
+[Gildenfetch](https://github.com/Qand7/neofetch-themes/blob/main/normal/Gildenfetch/Gildenfetch.conf)
+---
+![](normal/Gildenfetch/Gildedfetch.png)
+
 [Mixedfetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/hybridfetch.conf)
 ---
 ![](https://github.com/user-attachments/assets/f5aff3c6-633f-4803-b01a-aa1b6d2f6345)
@@ -107,6 +111,8 @@ NOTE: On Arch-based distros, run `yay -S ttf-material-design-icons-extended`, ot
 [tuxNature](https://github.com/MD-DILDAR-MANDAL/neofetch-themes/blob/main/normal/tuxNature/config.conf)
 ---
 ![tuxNature](normal/tuxNature/tn2.png)
+
+
 
 # Small:
 Note: you are required to manually change the distro ascii in the config
